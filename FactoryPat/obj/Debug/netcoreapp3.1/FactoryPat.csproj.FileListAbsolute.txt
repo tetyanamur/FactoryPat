@@ -1,0 +1,14 @@
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\bin\Debug\netcoreapp3.1\FactoryPat.exe
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\bin\Debug\netcoreapp3.1\FactoryPat.deps.json
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\bin\Debug\netcoreapp3.1\FactoryPat.runtimeconfig.json
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\bin\Debug\netcoreapp3.1\FactoryPat.runtimeconfig.dev.json
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\bin\Debug\netcoreapp3.1\FactoryPat.dll
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\bin\Debug\netcoreapp3.1\FactoryPat.pdb
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\obj\Debug\netcoreapp3.1\FactoryPat.csproj.AssemblyReference.cache
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\obj\Debug\netcoreapp3.1\FactoryPat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\obj\Debug\netcoreapp3.1\FactoryPat.AssemblyInfoInputs.cache
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\obj\Debug\netcoreapp3.1\FactoryPat.AssemblyInfo.cs
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\obj\Debug\netcoreapp3.1\FactoryPat.csproj.CoreCompileInputs.cache
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\obj\Debug\netcoreapp3.1\FactoryPat.dll
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\obj\Debug\netcoreapp3.1\FactoryPat.pdb
+C:\Users\oksyp\repos\FactoryPat\FactoryPat\obj\Debug\netcoreapp3.1\FactoryPat.genruntimeconfig.cache
